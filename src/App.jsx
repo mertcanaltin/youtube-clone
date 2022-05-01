@@ -130,7 +130,7 @@ function App() {
               <div class="">
                 <ul class="space-y-2">
                   <li>
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
@@ -149,7 +149,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900 ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
@@ -164,11 +164,11 @@ function App() {
                           ></path>
                         </g>
                       </svg><span class="flex-1 ml-3 whitespace-nowrap">Explore</span>
-                      <span class="inline-flex justify-center items-center px-2 ml-3 text-sm font-medium text-gray-800 bg-gray-200 rounded-full dark:bg-gray-700 dark:text-gray-300">Pro</span>
+                      <span class="inline-flex justify-center items-center px-2 ml-3 text-sm font-medium text-gray-800 bg-gray-200 rounded-full">Pro</span>
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
@@ -183,11 +183,11 @@ function App() {
                           ></path>
                         </g>
                       </svg><span class="flex-1 ml-3 whitespace-nowrap">Shorts</span>
-                      <span class="inline-flex justify-center items-center p-3 ml-3 w-3 h-3 text-sm font-medium text-blue-600 bg-blue-200 rounded-full dark:bg-blue-900 dark:text-blue-200">3</span>
+                      <span class="inline-flex justify-center items-center p-3 ml-3 w-3 h-3 text-sm font-medium text-blue-600 bg-blue-200 rounded-full">3</span>
                     </a>
                   </li>
                   <li >
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
@@ -206,7 +206,7 @@ function App() {
                   </li>
                   <hr />
                   <li>
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
@@ -224,7 +224,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
@@ -242,7 +242,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
@@ -261,7 +261,7 @@ function App() {
                   </li>
 
                   <li>
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
@@ -279,7 +279,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
+                    <a href="#" class="flex items-center p-2 text-base font-normal text-gray-900  ">
                       <svg
                         className="style-scope yt-icon"
                         display="block"
